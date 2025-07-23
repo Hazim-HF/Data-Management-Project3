@@ -15,7 +15,7 @@ This project analyzes the [MovieLens 100K Dataset](https://grouplens.org/dataset
 - Apache Cassandra
 - HDFS
 - PySpark (RDDs and DataFrames)
-- Zeppelin / Jupyter Notebook
+- Zeppelin
 
 ---
 
