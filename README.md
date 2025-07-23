@@ -81,7 +81,7 @@ The script ensures reproducibility by:
 ---
 
 ## 🧾 License
-This project is for educational purposes under the Data Science Master's program at [Your University].
+This project is for educational purposes under the Data Science Master's program at UKM.
 
 ---
 
